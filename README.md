@@ -18,17 +18,18 @@ Before running the application, make sure to attach the `.env` file provided in 
 
 Open your terminal and navigate to the project directory. Run the following command to install all the dependencies listed in `package.json`:
 
-```bash
-npm install
+`npm install`
 
 ### Step 3: Start the Application
+
 Once the dependencies are installed, you can start the application by running:
 
-```bash
-npm run start
+`npm run start`
+
+This command runs the `start` script defined in `package.json` and starts the app.
 
 ### Step 4: Access the Application
+
 Open your web browser and go to the following URL to access the login page of the app:
 
-```bash
-http://localhost:3000/auth/login
+`http://localhost:3000/auth/login`
