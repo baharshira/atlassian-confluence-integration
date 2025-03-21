@@ -1,10 +1,10 @@
-# App Setup Guide
+## App Setup Guide
 
 This guide will walk you through the process of setting up and starting the application on your local machine.
 
 ## Prerequisites
 
-Ensure you have Node.js and npm (Node Package Manager) installed on your computer.
+Ensure you have Node.js and npm installed on your computer.
 
 ## Step-by-Step Setup
 
