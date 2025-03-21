@@ -3,6 +3,7 @@ import dotenv from 'dotenv';
 import { router as authRoutes } from './routes/authRoutes';
 import { router as confluenceRoutes } from './routes/confluenceRoutes';
 import { EMPTY_STRING } from './consts';
+
 dotenv.config();
 
 export const app = express();
